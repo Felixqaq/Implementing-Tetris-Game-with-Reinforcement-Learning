@@ -1,2 +1,1 @@
-"# Implementing-Tetris-Game-with-Reinforcement-Learning" 
-![Uploading Train_Loss.svg…]()
+"# Implementing-Tetris-Game-with-Reinforcement-Learning" ![1_4B46Bc9EDUdwrnqhAUp7hQ](https://github.com/Felixqaq/Implementing-Tetris-Game-with-Reinforcement-Learning/assets/100891085/0e1c1367-76a9-4e26-9805-96997bcb018f)
